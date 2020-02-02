@@ -31,7 +31,7 @@ function doSomething() {
   header2.text("touchin");
   header3.text("my");
   header4.text("spaghet!!!!!!!!");
-  button.attr("src", "https://files.slack.com/files-tmb/TK5GC0Y6T-FLHNS8E7M-e40542b68e/image_from_ios_720.png");
+  button.attr("src", "angryspaghet.png");
   bottom.text("upsetti spaghetti");
   $("#textboxDiv").show();
   //$("#textboxDiv").append("<div><br><input type='text'placeholder='who is touchin the spaghet????' class='text'/><br></div>");
